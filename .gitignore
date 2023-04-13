@@ -1,0 +1,6 @@
+build/*
+!/build/CMakeLists.txt
+assets
+output
+tools
+.idea
